@@ -16,4 +16,5 @@ namespace DIO.Series.Enum
         Suspense = 12,
         Terror = 13,
     } 
+    
 }
